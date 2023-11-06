@@ -1,0 +1,9 @@
+.mystyle2{
+    color: rgb(12, 109, 25);
+    width: 20%;
+    position: absolute;
+    left: 80%;
+    bottom: 75%;
+    border: 2px solid gray;
+    border-radius:20px;
+}

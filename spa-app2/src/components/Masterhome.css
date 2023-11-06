@@ -1,0 +1,57 @@
+.c1{
+    position: absolute;
+    left: 20px;
+    top: 80px;
+    border: 2px solid gray;
+    width: 20%;
+    height: 80%;
+    background-color: antiquewhite;
+}
+.c2{
+    position: absolute;
+    left: 330px;
+    top: 80px;
+    border: 2px solid gray;
+    width: 54%;
+    height: 20%;
+    background-color: antiquewhite;
+
+}
+.c3{
+    position: absolute;
+    left: 1150px;
+    top: 80px;
+    border: 2px solid gray;
+    width: 20%;
+    height: 80%;
+    background-color: antiquewhite;
+}
+.c4{
+    position: absolute;
+    left: 330px;
+    top:  240px;
+    border: 2px solid gray;
+    width: 54%;
+    height: 58%;
+    background-color: antiquewhite;
+
+}
+.c41{
+    position: absolute;
+    left: 4%;
+    top: 40px;
+    right: 80%;
+
+}
+.c42{
+    position: absolute;
+    left: 40%;
+    top: 20px;
+
+}
+.c43{
+    position: absolute;
+    left: 80%;
+    top: 20px;
+
+}
